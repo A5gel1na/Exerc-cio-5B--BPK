@@ -12,8 +12,19 @@
 
 .gato-cao{
     float: right;
+    margin-right: 100px;
 }
 
 .container-planos p{
     font-size: 120%;
+    flex: 1;
+    text-align: justify center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
+
+.dois{
+    color: ;
 }
