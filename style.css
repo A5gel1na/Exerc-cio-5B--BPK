@@ -1,0 +1,19 @@
+.subtitulo{
+    text-align: center;
+    color: rgb(62, 182, 62);
+    font-size: 190%;
+}
+
+.um{
+    color: rgb(62, 182, 62);
+    font-size: 300%;
+}
+
+
+.gato-cao{
+    float: right;
+}
+
+.container-planos p{
+    font-size: 120%;
+}
