@@ -1,3 +1,5 @@
+
+
 .subtitulo{
     text-align: center;
     color: rgb(62, 182, 62);
@@ -7,6 +9,7 @@
 .um{
     color: rgb(62, 182, 62);
     font-size: 300%;
+    margin: 2%;
 }
 
 
@@ -26,5 +29,108 @@
 }
 
 .dois{
-    color: ;
+     color: rgb(62, 182, 62);
+   font-size: 300%;
+   margin: 2%;
+}
+
+.container-identificacao p{
+    font-size: 120%;
+    flex: 1;
+    text-align: justify center;
+    padding: 20px;
+}
+
+.identificacao{
+    float: left;
+    margin-left: 100px;
+}
+
+.praticidade{
+    font-size: 170%;
+    color: rgb(62, 182, 62);
+    text-align: center;
+}
+
+.whatsapp{
+    float: right;
+    margin-right: 100px;
+}
+
+.tres{
+    clear: both;
+    margin-right: 100px;
+    color: rgb(62, 182, 62);
+    font-size: 300%;
+    margin: 2%;
+}
+
+.medico-vet{
+    float: right;
+    margin-right: 100px;
+}
+
+.atendimento p{
+    font-size: 120%;
+    flex: 1;
+    text-align: justify center;
+    padding: 20px;
+}
+
+.quatro{
+    color: rgb(62, 182, 62);
+    font-size: 300%;
+    margin: 2%;
+}
+
+.internado{
+    float: left;
+    margin-left: 100px;
+}
+
+.container-emergencia p{
+    font-size: 120%;
+    flex: 1;
+    text-align: justify center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
+
+.cinco{
+    color: rgb(62, 182, 62);
+    font-size: 300%;
+    margin: 2%;
+}
+
+.computador{
+    float: right;
+    margin-right: 100px;
+}
+
+.container-acompanhamento p{
+    font-size: 120%;
+    flex: 1;
+    text-align: justify center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
+
+.interrogacao{
+    float: left;
+    margin-left: 2px;
+    height: 100px;
+    margin-top: 7px;
+}
+
+.container-pergunta p{
+    font-size: 160%;
+   flex: 1;
+   text-align: justify center;
+   display: flex;
+   flex-wrap: wrap;
+   gap: 20px;
 }
